@@ -1,3 +1,6 @@
 [submodule "1sti-challenge"]
 	path = 1sti-challenge
 	url = git@github.com:narcizo/1sti-challenge.git
+[submodule "WhatsClone"]
+	path = WhatsClone
+	url = git@github.com:narcizo/WhatsClone.git
